@@ -1,12 +1,12 @@
 # Site settings
 title: Jekyll Basics
-email: info@wiredcraft.com
-description: "A boilerplate set up to create a bilingual Jekyll website."
+email: mail@shyaamdeshmukh.com
+description: "A boilerplate set up to create a bilingual Jekyll website by Wiredcraft."
 keywords:
 - Jekyll
 
 # URL
-url: "https://wiredcraft.github.io/jekyll-basics"
+url: "https://shyaam.github.io/jb-template"
 baseurl: ""
 
 # Google tracking (Analytics and Google Tag Manager)
@@ -14,16 +14,16 @@ baseurl: ""
 # google_analytics: UA-XXXXXXX-X
 
 # SEO
-twitter: wiredcraft
-facebook: https://www.facebook.com/teamwiredcraft
+twitter: shyaam
+facebook: https://www.facebook.com/shyaamdeshmukh
 logo: /assets/logo.png
 image: /assets/logo.png
 social:
-  - https://www.facebook.com/teamwiredcraft
-  - https://twitter.com/wiredcraft
-  - https://www.linkedin.com/company/wiredcraft
-  - https://github.com/wiredcraft
-  - https://weibo.com/1970385015/
+  - https://www.facebook.com/shyaamdeshmukh
+  - https://twitter.com/shyaam
+  - https://www.linkedin.com/in/shyaam
+  - https://github.com/shyaam
+  - https://weibo.com/xxxxxxxxxxxx/
 
 # Sitemap (see sitemap.xml)
 sitemap:
