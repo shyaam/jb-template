@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: First post - yay!
 date: '2020-06-21'
 description: This is the first post of the "posts" collection.
