@@ -1,7 +1,8 @@
 ---
+published: true
 title: Second post
-description: 'This is the second post of the "posts" collection.'
-lang: en
+date: '2020-07-18'
+description: This is the second post of the "posts" collection.
 image: /files/images/china-shanghai.jpg
 ---
 
